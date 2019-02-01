@@ -1,2 +1,1 @@
-# angular2
-Learn angular2
+## Learn Angular 2 CLI
